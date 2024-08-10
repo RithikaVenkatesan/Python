@@ -18,4 +18,4 @@ for i in range(n):
         L[j]=a
         j+=1
 for i in L:
-    print(i,end=" ")9
+    print(i,end=" ")
